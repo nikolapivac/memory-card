@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import "../styles/Main.css";
 import Score from "./Score";
 import Cards from "./Cards";
-import charData from "../characters.json"
+import people from "../characters.js" 
 
 const Main = () => {
     const [currentScore, setCurrentScore] = useState(0);
@@ -15,10 +15,7 @@ const Main = () => {
     }
 
     useEffect(() => {
-        const loadCharacters = () => {
-            setCharacters(shuffle(charData.characters));
-        }
-        loadCharacters();
+        setCharacters(shuffle(people));
     }, [])
 
     const handleClick = (e) => {
