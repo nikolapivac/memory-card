@@ -1,13 +1,29 @@
 {
   "files": {
     "main.css": "/memory-card/static/css/main.2ba96f4f.css",
-    "main.js": "/memory-card/static/js/main.6e164069.js",
+    "main.js": "/memory-card/static/js/main.ed5a619e.js",
+    "static/media/stanley.webp": "/memory-card/static/media/stanley.7d7fb950bbd266d08412.webp",
+    "static/media/jim.webp": "/memory-card/static/media/jim.e07641cfd34ee84e1df3.webp",
+    "static/media/dwight.jpg": "/memory-card/static/media/dwight.212204cab1343d17b8d2.jpg",
+    "static/media/angela.jpg": "/memory-card/static/media/angela.583c93de3d243ed3c81d.jpg",
+    "static/media/phyllis.webp": "/memory-card/static/media/phyllis.697087e3cf6a521c523e.webp",
+    "static/media/creed.jpg": "/memory-card/static/media/creed.a8471e6ede5460792a39.jpg",
+    "static/media/pam.jpg": "/memory-card/static/media/pam.7da8760cd8c65fec0f54.jpg",
+    "static/media/erin.webp": "/memory-card/static/media/erin.b97717c79b685f997b93.webp",
+    "static/media/oscar.webp": "/memory-card/static/media/oscar.680b1f26d6a811880153.webp",
+    "static/media/michael.jpg": "/memory-card/static/media/michael.7585c444dfbcc1aca2dc.jpg",
+    "static/media/kevin.webp": "/memory-card/static/media/kevin.0c1be7e24d94cdf923b3.webp",
+    "static/media/toby.jpg": "/memory-card/static/media/toby.ef6b811d12f40cad54e5.jpg",
+    "static/media/kelly.webp": "/memory-card/static/media/kelly.2cce68cc71521f3e90b6.webp",
+    "static/media/ryan.jpg": "/memory-card/static/media/ryan.1f59b813057f9a9ee2b4.jpg",
+    "static/media/andy.jpg": "/memory-card/static/media/andy.16fd9482089d6e48cb26.jpg",
+    "static/media/meredith.webp": "/memory-card/static/media/meredith.357159ca620b44665bbe.webp",
     "index.html": "/memory-card/index.html",
     "main.2ba96f4f.css.map": "/memory-card/static/css/main.2ba96f4f.css.map",
-    "main.6e164069.js.map": "/memory-card/static/js/main.6e164069.js.map"
+    "main.ed5a619e.js.map": "/memory-card/static/js/main.ed5a619e.js.map"
   },
   "entrypoints": [
     "static/css/main.2ba96f4f.css",
-    "static/js/main.6e164069.js"
+    "static/js/main.ed5a619e.js"
   ]
 }
