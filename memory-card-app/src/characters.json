@@ -1,0 +1,84 @@
+{
+    "characters": [
+        {
+            "id": 1,
+            "name": "Michael",
+            "image": "/images/michael.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Jim",
+            "image": "/images/jim.webp"
+        },
+        {
+            "id": 3,
+            "name": "Pam",
+            "image": "/images/pam.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Dwight",
+            "image": "/images/dwight.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Angela",
+            "image": "/images/angela.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Oscar",
+            "image": "/images/oscar.webp"
+        },
+        {
+            "id": 7,
+            "name": "Kevin",
+            "image": "/images/kevin.webp"
+        },
+        {
+            "id": 8,
+            "name": "Andy",
+            "image": "/images/andy.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Phyllis",
+            "image": "/images/phyllis.webp"
+        },
+        {
+            "id": 10,
+            "name": "Meredith",
+            "image": "/images/meredith.webp"
+        },
+        {
+            "id": 11,
+            "name": "Kelly",
+            "image": "/images/kelly.webp"
+        },
+        {
+            "id": 12,
+            "name": "Ryan",
+            "image": "/images/ryan.jpg"
+        },
+        {
+            "id": 13,
+            "name": "Stanley",
+            "image": "/images/stanley.webp"
+        },
+        {
+            "id": 14,
+            "name": "Creed",
+            "image": "/images/creed.jpg"
+        },
+        {
+            "id": 15,
+            "name": "Toby",
+            "image": "/images/toby.jpg"
+        },
+        {
+            "id": 16,
+            "name": "Erin",
+            "image": "/images/erin.webp"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+.card {
+    margin: auto;
+    background-color: rgb(25, 42, 57);
+    color: white;
+    padding: 16px;
+    border-radius: 8px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    transition: 0.25s ease-in;
+}
+
+.card:hover {
+    transform: scale(1.03);
+    background-color: rgb(25, 42, 57, 0.3);
+    color: rgb(25, 42, 57);
+    cursor: pointer;
+}
+
+.image {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+.card > .name {
+    text-align: center;
+    font-size: 24px;
+    letter-spacing: 2px;
+    margin: 8px;
+}
+
+@media (max-width: 1180px) {
+    .image {
+        width: 100px;
+        height: 100px;
+    }
+
+    .card > .name {
+        font-size: 16px;
+    }
+}
